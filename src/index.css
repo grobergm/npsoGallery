@@ -1,0 +1,61 @@
+body {
+text-align:center;
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+background: linear-gradient(to left,rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);
+}
+
+
+.card{
+	margin:10px;
+	width:15rem;
+}
+
+.userIcon{
+	border-radius:10%;
+	width:7rem;
+}
+
+#mainTitle{
+	color:white;
+	font-size:4em;
+}
+
+#mainHeader{
+ text-align: center;
+  background-color: #000;
+  font-family:lato;
+  font-weight: bold;
+  height: auto;
+  padding:20px;
+  color:white;
+}
+
+#mainSubTitle{
+ font-size: 2em;
+  border-bottom: 2px solid white;
+  line-height: .1em;
+}
+
+.lineAround{
+  background:#000;
+  padding:0 10px;
+}
+
+.form-control{
+	max-width:200px;
+	margin: auto auto;
+}
+
+#inatLogo{
+	max-width:200px;
+	padding:20px;
+}
+
+#npsoLogo{
+	float:left;
+	border-radius:50%;
+	max-width:150px;
+}
+
